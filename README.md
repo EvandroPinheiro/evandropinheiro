@@ -30,3 +30,8 @@
   <a href="https://www.linkedin.com/in/evandro-pinheiro-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://soundcloud.com/evandrosk9" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>  
   </div>
+  
+  ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/evandropinheiro/count.svg" />
+ </p>
